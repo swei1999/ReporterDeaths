@@ -7,7 +7,10 @@
 
 <!-- badges: end -->
 
-The goal of ReporterDeaths is to …
+The goal of ReporterDeaths is to provide information on reporter/media
+worker deaths from 1992-2020 (provided by the Committee to Protect
+Journalists). This dataset has many insights such as cause of death,
+media organization, country of death, and more.
 
 ## Installation
 

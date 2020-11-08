@@ -26,7 +26,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of ReporterDeaths is to ...
+The goal of ReporterDeaths is to provide information on reporter/media worker deaths from 1992-2020 (provided by the Committee to Protect Journalists). This dataset has many insights such as cause of death, media organization, country of death, and more. 
 
 ## Installation
 
@@ -70,7 +70,7 @@ The large majority of journalists/media workers are murdered (869 deaths).
 
 SOLUTION: 
 
-```{r fig.width = 7, fig.height = 5, message = FALSE, warning = FALSE}
+```{r fig.width = 5, fig.height = 3, message = FALSE, warning = FALSE}
 # Generate the time plot
 ReporterDeaths %>% 
   group_by(year, cause_of_death) %>% 
@@ -114,7 +114,7 @@ Print reporters come in a close second with 357 deaths.
 
 SOLUTION:
 
-```{r message = FALSE, warning = FALSE}
+```{r fig.width = 5, fig.height = 3, message = FALSE, warning = FALSE}
 data("World")
 
 # Get top 8 countries where journalists/media workers are killed
