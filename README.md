@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+![R-CMD-check](https://github.com/swei1999/ReporterDeaths/workflows/R-CMD-check/badge.svg?branch=master)
+
 <!-- badges: end -->
 
 The goal of ReporterDeaths is to provide information on reporter/media
