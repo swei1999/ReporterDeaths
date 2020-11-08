@@ -5,8 +5,7 @@ Authors@R:
     person(given = "Sean",
            family = "Wei",
            role = c("aut", "cre"),
-           email = "swei21@amherst.edu",
-           comment = c(ORCID = "0000-0003-3332-4311"))
+           email = "swei21@amherst.edu"
 Description: Numerous journalists and media workers are killed doing their jobs. This package contains data on journalist/media worker deaths from 1992-2020 from the CPJ (Committee to Protect Journalists).
 URL: https://github.com/swei1999/ReporterDeaths
 License: MIT + file LICENSE
