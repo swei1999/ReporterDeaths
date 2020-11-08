@@ -1,0 +1,16 @@
+Package: ReporterDeaths
+Title: Journalist & Media Worker Deaths Between 1992-2020
+Version: 0.1.0
+Authors@R: 
+    person(given = "Sean",
+           family = "Wei",
+           role = c("aut", "cre"),
+           email = "swei21@amherst.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Numerous journalists and media workers are killed doing their jobs. This package contains data on journalist/media worker deaths from 1992-2020 from the CPJ (Committee to Protect Journalists).
+URL: https://github.com/swei1999/ReporterDeaths
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
