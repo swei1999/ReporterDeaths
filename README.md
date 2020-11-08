@@ -5,8 +5,6 @@
 
 <!-- badges: start -->
 
-![R-CMD-check](https://github.com/swei1999/ReporterDeaths/workflows/R-CMD-check/badge.svg?branch=master)
-
 <!-- badges: end -->
 
 The goal of ReporterDeaths is to provide information on reporter/media
@@ -223,7 +221,7 @@ of death, country of death, and specific job. In particular, it provides
 information about worker deaths from crossfire, dangerous assignments,
 and murder. From the table and timeplot from parts a and b, we see that
 the majority of journalists/media workers are murdered. From part c, we
-gain that the most dangerous jobs are broadcast reporters, print
+see that the most dangerous jobs are broadcast reporters, print
 reporters, camera operators, and editors. Lastly, from part d, we see
 that the most deaths occur in Iraq, Syria, the Philippines, Somalia,
 Algeria, Pakistan, Russia, and Mexico.
