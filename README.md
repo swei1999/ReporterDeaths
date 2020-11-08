@@ -138,7 +138,6 @@ ReporterDeaths %>%
   geom_line(aes(color = cause_of_death)) + 
   ggtitle("Cause of Journalist/Media Worker Deaths \nfrom 1992-2020") +
   labs(x = "Year", color = "Cause of Death")
-#> `summarise()` regrouping output by 'year' (override with `.groups` argument)
 ```
 
 <img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
@@ -195,7 +194,6 @@ location_deaths <- ReporterDeaths %>%
   arrange(desc(Deaths)) %>% 
   head(8) %>% 
   rename(query = country)
-#> `summarise()` ungrouping output (override with `.groups` argument)
 
 # Get latitude/longitude values for the countries
 countries <- tmaptools::geocode_OSM(c(as.vector(t(location_deaths["query"][, ]))),
