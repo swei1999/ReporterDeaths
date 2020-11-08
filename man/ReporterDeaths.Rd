@@ -19,7 +19,7 @@ A dataframe with 1358 elements
 }
 }
 \source{
-
+\url{https://cpj.org/data/killed}
 }
 \usage{
 ReporterDeaths

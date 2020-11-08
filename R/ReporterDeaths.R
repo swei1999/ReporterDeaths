@@ -12,7 +12,7 @@ NULL
 #' A data set containing reporter/media worker deaths from the
 #' Committee to Protect Journalists (CPJ) from 1992-2020.
 #'
-#' @source \url{https://cpj.org/data/killed/?status=Killed&motiveConfirmed%5B%5D=Confirmed&motiveUnconfirmed%5B%5D=Unconfirmed&type%5B%5D=Journalist&type%5B%5D=Media%20Worker&start_year=1992&end_year=2020&group_by=year}
+#' @source \url{https://cpj.org/data/killed}
 #' @format A dataframe with 1358 elements
 #' \describe{
 #'   \item{cause_of_death}{Cause of Death (Murder, Crossfire, or Dangerous Assignment)}
