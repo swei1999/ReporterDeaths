@@ -29,7 +29,7 @@ library(ReporterDeaths)
 data("ReporterDeaths")
 ```
 
-### a. Provide a nice table to illustate the different causes of death of journalists/media workers covered in this dataset. What different causes of death are there and which cause results in the most death?
+### a. Provide a nice table to illustrate the different causes of death of journalists/media workers covered in this dataset. What different causes of death are there and which cause results in the most death?
 
 SOLUTION:
 
